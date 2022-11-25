@@ -1,0 +1,32 @@
+
+$navBarColour: #111;
+
+$sunBodyColour: #ffcc22;
+$sunTrimColour: #ffaa5533;
+
+$mercuryBodyColour: #816f5f;
+$mercuryTrimColour: #efd073;
+
+$venusBodyColour: #c0b7aa;
+$venusTrimColour: #f1f57d;
+
+$earthBodyColour: linear-gradient(140deg, rgba(74,117,168,1) 0%, rgba(24,59,16,1) 63%, rgba(74,117,168,1) 100%);
+$earthTrimColour: #335234;
+
+$marsBodyColour: #ff7e33;
+$marsTrimColour: #ffe18f;
+
+$jupiterBodyColour: #ffd6be;
+$jupiterTrimColour: #d09d73;
+
+$saturnBodyColour: #e6c579;
+$saturnTrimColour: #948a6f;
+
+$uranusBodyColour: #99b6b4;
+$uranusTrimColour: #d2fff9;
+
+$neptuneBodyColour: #5681dc;
+$neptuneTrimColour: #eef8ff;
+
+$headerHeight: 15vh;
+$heroHeight: calc(100vh - $headerHeight);
