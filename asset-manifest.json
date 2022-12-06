@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/le_systeme_solaire/static/css/main.9a06d470.css",
+    "main.js": "/le_systeme_solaire/static/js/main.9e84a52e.js",
+    "static/media/blackhole.webp": "/le_systeme_solaire/static/media/blackhole.c9e4e83294030d164e22.webp",
+    "static/media/saturn.jpg": "/le_systeme_solaire/static/media/saturn.3e181ea52b211adf1092.jpg",
+    "static/media/sun.jpg": "/le_systeme_solaire/static/media/sun.34d15ed5b60c800c8101.jpg",
+    "static/media/venus.jpg": "/le_systeme_solaire/static/media/venus.921e08f0a1d93ec6ae49.jpg",
+    "static/media/mars.jpg": "/le_systeme_solaire/static/media/mars.c1e2b37e3a7ab07712e3.jpg",
+    "static/media/jupiter.jpg": "/le_systeme_solaire/static/media/jupiter.4c73e32684de8f980934.jpg",
+    "static/media/mercury.webp": "/le_systeme_solaire/static/media/mercury.31d0899dfede56bbe5c4.webp",
+    "static/media/earth.jpg": "/le_systeme_solaire/static/media/earth.28b8ce4db2f1aec27d93.jpg",
+    "static/media/neptune.jpg": "/le_systeme_solaire/static/media/neptune.dd0b5c68f18a8ea3cb03.jpg",
+    "static/media/uranus.jpg": "/le_systeme_solaire/static/media/uranus.5ee762c5ba93e6206de3.jpg",
+    "index.html": "/le_systeme_solaire/index.html",
+    "main.9a06d470.css.map": "/le_systeme_solaire/static/css/main.9a06d470.css.map",
+    "main.9e84a52e.js.map": "/le_systeme_solaire/static/js/main.9e84a52e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a06d470.css",
+    "static/js/main.9e84a52e.js"
+  ]
+}
