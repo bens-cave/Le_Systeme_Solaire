@@ -13,7 +13,7 @@ const App = () => {
 
   return (
     <main className='site-wrapper'>
-      <BrowserRouter>
+      <BrowserRouter basename="/le_systeme_solaire" >
         <PageNavBar />
         <Routes>
           <Route path="/" element={<Sun />} />
