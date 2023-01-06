@@ -10,7 +10,7 @@ const Moons = ({ planet }) => {
   useEffect(() => {
     const getMoons = async () => {
       try {
-        const { data } = await axios.get(`/rest/bodies?filter[]=aroundPlanet,eq,${planet.id}`)
+        const { data } = await axios.get(`https://api.le-systeme-solaire.net/rest/bodies?filter[]=aroundPlanet,eq,${planet.id}`)
         console.log(data.bodies)
         setMoons(data.bodies)
       } catch (err) {
