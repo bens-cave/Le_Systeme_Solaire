@@ -1,7 +1,6 @@
 {
   "name": "le_systeme_solaire",
   "version": "0.1.0",
-  "homepage": "https://bens-cave.github.io/le_systeme_solaire/",
   "private": true,
   "dependencies": {
     "axios": "^0.27.1",
