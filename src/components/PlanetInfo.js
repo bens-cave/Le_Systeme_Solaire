@@ -21,7 +21,7 @@ const PlanetInfo = ({ planet }) => {
             <div className='record'>
               <p className='label'>🏋️ Mass</p>
               {
-                planet.mass.massValue !== 0
+                planet.mass && planet.mass.massValue !== 0
                   ?
                   <p className='data'>{planet.mass.massValue} x 10^{planet.mass.massExponent} kg</p>
                   :
