@@ -18,7 +18,7 @@ const PlanetShow = () => {
   useEffect(() => {
     const getPlanet = async () => {
       try {
-        const { data } = await axios.get(`/rest/bodies/${id}`)
+        const { data } = await axios.get(`https://api.le-systeme-solaire.net/rest/bodies/${id}`)
         setPlanet(data)
       } catch (err) {
         console.log(err.message)

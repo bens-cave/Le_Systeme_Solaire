@@ -17,7 +17,7 @@ const Bodies = () => {
   useEffect(() => {
     const getBodies = async () => {
       try {
-        const { data } = await axios.get('/rest/bodies/')
+        const { data } = await axios.get('https://api.le-systeme-solaire.net/rest/bodies/')
         console.log(data.bodies)
         setBodies(data.bodies)
       } catch (err) {
