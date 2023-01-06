@@ -24,7 +24,7 @@ const Moons = ({ planet }) => {
   return (
     <div className='body-list'>
       {
-        !errors
+        !errors && moons
           ?
           moons.map(moon => {
             const { id, englishName, discoveredBy, discoveryDate, avgTemp, mass, gravity, meanRadius } = moon
